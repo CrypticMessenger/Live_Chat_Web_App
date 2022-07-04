@@ -1,5 +1,5 @@
 <h1><center>Live Chat Web App</center></h1>
-- Live Web app made using ReactJS, MongoDB, SocketIO and NodeJS.
+- Live Web app made using ReactJS, MongoDB, SocketIO and NodeJS. <br>
 - Collaborated by Amit Kumar and Ankit Sharma.
 
 ## Screenshots
