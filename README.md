@@ -34,7 +34,7 @@
     ```
     npm start
     ```
-- Run application by running following command (before this, make sure you are in ```public``` directory)
+- Run application by running following command (before this, make sure you are in ```public``` directory )
     ```
     npm start
     ```
