@@ -7,7 +7,7 @@
     "start": "node index.js",
     "build": "cd public && npm run build",
     "install-public": "cd public && npm install",
-    "heroku-postbuild": "npm run install-client && npm run build",
+    "heroku-postbuild": "npm run install-public && npm run build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
