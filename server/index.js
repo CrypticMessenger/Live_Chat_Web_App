@@ -6,7 +6,7 @@ const messageRoutes = require("./routes/messages");
 const app = express();
 const socket = require("socket.io");
 require("dotenv").config();
-const PORT = process.env.PORT || 5000;
+
 app.use(cors());
 app.use(express.json());
 
@@ -25,19 +25,8 @@ mongoose
 app.use("/api/auth", authRoutes);
 app.use("/api/messages", messageRoutes);
 
-if(process.env.NODE_ENV === 'production'){
-  app.use(express.static('public/build'));
-  // app.get('*', (request, response) => {
-  //   response.sendFile(path.resolve(__dirname, 'public/build', 'index.html'));
-  // });
-  app.get('*', (request, response) => {
-    res.sendFile(path.resolve(__dirname,'public','build','index.html'));
-  });
-}
-
-
-const server = app.listen(PORT, () =>
-  console.log(`Server started on ${PORT}`)
+const server = app.listen(process.env.PORT, () =>
+  console.log(`Server started on ${process.env.PORT}`)
 );
 const io = socket(server, {
   cors: {
