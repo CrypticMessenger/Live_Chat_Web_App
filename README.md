@@ -12,8 +12,8 @@
 <image src="./snippets/chat_entry.jpeg"/>
 - <h3> Communication - feel the dynamic chat experience with emojis.</h3>
 <image src="./snippets/emoji.jpeg"/>
-<image src="./snippets/Comm1.jpeg"/>
-<image src="./snippets/Comm2.jpeg"/>
+<image src="./snippets/comm1.jpeg"/>
+<image src="./snippets/comm2.jpeg"/>
 
 ## Steps to Start the App locally
 
