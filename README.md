@@ -1,6 +1,6 @@
 <h1><center>Live Chat Web App</center></h1>
 - Live Web app made using ReactJS, MongoDB, SocketIO and NodeJS. <br>
-- Collaborated by Amit Kumar and Ankit Sharma.
+- Collaborated by Amit Kumar <a href="https://github.com/amithrx">(Profile)</a> and Ankit Sharma <a href="https://github.com/CrypticMessenger">(Profile)</a> .
 
 ## Screenshots
 - <h3>Registeration new user</h3>
