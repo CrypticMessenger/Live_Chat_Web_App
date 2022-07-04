@@ -26,7 +26,7 @@ app.use("/api/auth", authRoutes);
 app.use("/api/messages", messageRoutes);
 
 if(process.env.NODE_ENV !== 'production'){
-  app.use(express.static('public/build'));
+  app.use(express.static('/public/build'));
 }
 
 
@@ -35,7 +35,7 @@ const server = app.listen(PORT, () =>
 );
 const io = socket(server, {
   cors: {
-    origin: "https://chat-web-app-demo.herokuapp.com/",
+    origin: "http://localhost:3000",
     credentials: true,
   },
 });
