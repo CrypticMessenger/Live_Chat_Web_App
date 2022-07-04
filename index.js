@@ -25,7 +25,7 @@ mongoose
 app.use("/api/auth", authRoutes);
 app.use("/api/messages", messageRoutes);
 
-if(process.env.NODE_ENV !== 'production'){
+if(process.env.NODE_ENV == 'production'){
   app.use(express.static('/public/build'));
   app.get('*', (request, response) => {
     response.sendFile(path.join(__dirname, 'public/build', 'index.html'));
