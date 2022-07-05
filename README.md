@@ -3,10 +3,11 @@
 - Collaborated by Amit Kumar <a href="https://github.com/amithrx">(Profile)</a> and Ankit Sharma <a href="https://github.com/CrypticMessenger">(Profile)</a> .
 
 ## Video Demo💻
+
 https://user-images.githubusercontent.com/92815147/177411904-f1ab729a-3b95-45b0-b1cb-2991fd438fec.mp4
+<a href="https://chat-web-app-demo.herokuapp.com">Currently in process of deployment </a>
 
-
-## Screenshots
+## Screenshots📸
 - <h3>Registeration new user</h3>
 <image src="./snippets/Register.jpeg"/>
 - <h3>Login page</h3>
@@ -20,7 +21,7 @@ https://user-images.githubusercontent.com/92815147/177411904-f1ab729a-3b95-45b0-
 <image src="./snippets/comm1.jpeg"/>
 <image src="./snippets/comm2.jpeg"/>
 
-## Steps to Start the App locally
+## Steps to Start the App locally🪜
 
 - Install the Public Dependencies
     - make sure you are in public directory.
