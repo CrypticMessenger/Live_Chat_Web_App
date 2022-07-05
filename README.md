@@ -1,7 +1,7 @@
 <h1><center>Live Chat Web App</center></h1>
 - Live Web app made using ReactJS, MongoDB, SocketIO and NodeJS.<a href="https://chat-web-app-demo.herokuapp.com">  (Currently in process of deployment)</a><br>
-- Collaborated by Amit Kumar <a href="https://github.com/amithrx">(Profile)</a> and Ankit Sharma <a href="https://github.com/CrypticMessenger">(Profile)</a> .
-
+- Collaborated by Amit Kumar <a href="https://github.com/amithrx">(Profile)</a> and Ankit Sharma <a href="https://github.com/CrypticMessenger">(Profile)</a> . <br>
+- Tip before moving to next section: unmute audio from the video for best experience.
 ## Video Demo💻
 
 https://user-images.githubusercontent.com/92815147/177411904-f1ab729a-3b95-45b0-b1cb-2991fd438fec.mp4 
