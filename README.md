@@ -3,7 +3,6 @@
 - Collaborated by Amit Kumar <a href="https://github.com/amithrx">(Profile)</a> and Ankit Sharma <a href="https://github.com/CrypticMessenger">(Profile)</a> .
 
 ## Video Demo💻
-(Currently in process of deployment https://chat-web-app-demo.herokuapp.com/)
 https://user-images.githubusercontent.com/92815147/177411904-f1ab729a-3b95-45b0-b1cb-2991fd438fec.mp4
 
 
