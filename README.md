@@ -6,6 +6,9 @@
 <video width="320" height="240" controls autoplay>  
 <source src="./snippets/MainTut.mp4" type="video/mp4">  
 </video>  
+https://user-images.githubusercontent.com/92815147/177411904-f1ab729a-3b95-45b0-b1cb-2991fd438fec.mp4
+
+
 ## Screenshots
 - <h3>Registeration new user</h3>
 <image src="./snippets/Register.jpeg"/>
