@@ -2,6 +2,10 @@
 - Live Web app made using ReactJS, MongoDB, SocketIO and NodeJS. <br>
 - Collaborated by Amit Kumar <a href="https://github.com/amithrx">(Profile)</a> and Ankit Sharma <a href="https://github.com/CrypticMessenger">(Profile)</a> .
 
+## Video Demo💻
+<video width="320" height="240" controls autoplay>  
+<source src="./snippets/MainTut.mp4" type="video/mp4">  
+</video>  
 ## Screenshots
 - <h3>Registeration new user</h3>
 <image src="./snippets/Register.jpeg"/>
