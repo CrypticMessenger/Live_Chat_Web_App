@@ -4,7 +4,8 @@
 
 ## Video Demo💻
 
-https://user-images.githubusercontent.com/92815147/177411904-f1ab729a-3b95-45b0-b1cb-2991fd438fec.mp4
+https://user-images.githubusercontent.com/92815147/177411904-f1ab729a-3b95-45b0-b1cb-2991fd438fec.mp4 
+<br>
 <a href="https://chat-web-app-demo.herokuapp.com">Currently in process of deployment </a>
 
 ## Screenshots📸
